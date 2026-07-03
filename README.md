@@ -1,3 +1,4 @@
+[README (4).md](https://github.com/user-attachments/files/29642589/README.4.md)
 # Hi, I'm Pawan Darwai 👋
 
 CSE (AI/ML) student at SISTec-R Bhopal, building with Python, Machine Learning, Flask, and MongoDB.
@@ -20,13 +21,19 @@ CSE (AI/ML) student at SISTec-R Bhopal, building with Python, Machine Learning, 
 - **[College Management System](https://github.com/pawandarwai/college-management)** — ERP-style app for college administration
 
 ## 📊 GitHub Stats
-![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawandarwai&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawandarwai&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pawandarwai&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pawandarwai&color=blue&style=flat" alt="Profile views" />
+</p>
 
 ## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/pawan-darwai-02821238a
-- Email: pawandarwai59@gmail.com
-- Portfolio: 
+- 💼 LinkedIn: [pawan-darwai-02821238a](https://www.linkedin.com/in/pawan-darwai-02821238a)
+- 📧 Email: pawandarwai59@gmail.com
+- 🌐 Portfolio: [coming soon]
 
 ---
 ⭐️ Feel free to explore my repositories and reach out for collaboration!
