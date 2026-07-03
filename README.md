@@ -24,9 +24,9 @@ CSE (AI/ML) student at SISTec-R Bhopal, building with Python, Machine Learning, 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawandarwai&layout=compact&theme=tokyonight)
 
 ## 📫 Connect with Me
-- LinkedIn: [your-linkedin-url]
-- Email: [your-email]
-- Portfolio: [your-portfolio-url]
+- LinkedIn: https://www.linkedin.com/in/pawan-darwai-02821238a
+- Email: pawandarwai59@gmail.com
+- Portfolio: 
 
 ---
 ⭐️ Feel free to explore my repositories and reach out for collaboration!
