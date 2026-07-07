@@ -1,4 +1,4 @@
-[README (5).md](https://github.com/user-attachments/files/29742812/README.5.md)# Hi, I'm Pawan Darwai 👋
+[README (6).md](https://github.com/user-attachments/files/29742933/README.6.md)# Hi, I'm Pawan Darwai 👋
 
 CSE (AI/ML) student at SISTec-R Bhopal, building with Python, Machine Learning, Flask, and MongoDB.
 
@@ -14,7 +14,6 @@ CSE (AI/ML) student at SISTec-R Bhopal, building with Python, Machine Learning, 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ## 📌 Featured Projects
 - **[Coding-Ka-Cricket](https://github.com/pawandarwai/Coding-Ka-Cricket-main)** — Cricket-related coding project (SIH 2025)
@@ -23,13 +22,7 @@ CSE (AI/ML) student at SISTec-R Bhopal, building with Python, Machine Learning, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawandarwai&theme=tokyonight" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pawandarwai&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pawandarwai&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pawandarwai&theme=tokyonight&utcOffset=5.5" width="32%" />
+  <img src="https://github-readme-streak-stats-two.vercel.app?user=pawandarwai&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 <p align="center">
