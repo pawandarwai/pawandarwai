@@ -25,15 +25,6 @@ CSE (AI/ML) student at SISTec-R Bhopal, building with Python, Machine Learning, 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pawandarwai&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pawandarwai&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pawandarwai&color=blue&style=flat" alt="Profile views" />
-</p>
-
 ## 📫 Connect with Me
 - 💼 LinkedIn: [pawan-darwai-02821238a](https://www.linkedin.com/in/pawan-darwai-02821238a)
 - 📧 Email: pawandarwai59@gmail.com
