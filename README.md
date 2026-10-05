@@ -1,5 +1,4 @@
-[README (6).md](https://github.com/user-attachments/files/30703875/README.6.md)
-# Hi, I'm Pawan Darwai 👋
+[README.6.md](https://github.com/user-attachments/files/33068448/README.6.md)# Hi, I'm Pawan Darwai 👋
 
 CSE (AI/ML) student at SISTec-R Bhopal, building with Python, Machine Learning, Flask, and MongoDB.
 
